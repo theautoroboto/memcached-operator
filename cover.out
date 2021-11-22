@@ -1,0 +1,27 @@
+mode: set
+github.com/theautoroboto/memcached-operator/controllers/memcached_controller.go:61.101,67.16 4 0
+github.com/theautoroboto/memcached-operator/controllers/memcached_controller.go:81.2,83.42 3 0
+github.com/theautoroboto/memcached-operator/controllers/memcached_controller.go:100.2,101.34 2 0
+github.com/theautoroboto/memcached-operator/controllers/memcached_controller.go:116.2,121.57 3 0
+github.com/theautoroboto/memcached-operator/controllers/memcached_controller.go:125.2,128.58 2 0
+github.com/theautoroboto/memcached-operator/controllers/memcached_controller.go:137.2,137.27 1 0
+github.com/theautoroboto/memcached-operator/controllers/memcached_controller.go:67.16,68.29 1 0
+github.com/theautoroboto/memcached-operator/controllers/memcached_controller.go:76.3,77.28 2 0
+github.com/theautoroboto/memcached-operator/controllers/memcached_controller.go:68.29,74.4 2 0
+github.com/theautoroboto/memcached-operator/controllers/memcached_controller.go:83.42,88.17 4 0
+github.com/theautoroboto/memcached-operator/controllers/memcached_controller.go:93.3,93.41 1 0
+github.com/theautoroboto/memcached-operator/controllers/memcached_controller.go:88.17,91.4 2 0
+github.com/theautoroboto/memcached-operator/controllers/memcached_controller.go:94.8,94.23 1 0
+github.com/theautoroboto/memcached-operator/controllers/memcached_controller.go:94.23,97.3 2 0
+github.com/theautoroboto/memcached-operator/controllers/memcached_controller.go:101.34,104.17 3 0
+github.com/theautoroboto/memcached-operator/controllers/memcached_controller.go:111.3,111.53 1 0
+github.com/theautoroboto/memcached-operator/controllers/memcached_controller.go:104.17,107.4 2 0
+github.com/theautoroboto/memcached-operator/controllers/memcached_controller.go:121.57,124.3 2 0
+github.com/theautoroboto/memcached-operator/controllers/memcached_controller.go:128.58,131.17 3 0
+github.com/theautoroboto/memcached-operator/controllers/memcached_controller.go:131.17,134.4 2 0
+github.com/theautoroboto/memcached-operator/controllers/memcached_controller.go:141.101,176.2 5 0
+github.com/theautoroboto/memcached-operator/controllers/memcached_controller.go:180.56,182.2 1 0
+github.com/theautoroboto/memcached-operator/controllers/memcached_controller.go:185.46,187.27 2 0
+github.com/theautoroboto/memcached-operator/controllers/memcached_controller.go:190.2,190.17 1 0
+github.com/theautoroboto/memcached-operator/controllers/memcached_controller.go:187.27,189.3 1 0
+github.com/theautoroboto/memcached-operator/controllers/memcached_controller.go:194.72,200.2 1 0
